@@ -1,0 +1,37 @@
+[
+  {
+    "paragrahv": 89,
+    "nimetus": "Relvastatud rünne Eesti Vabariigi iseseisvuse vastu",
+    "karistus": "Karistatakse eluaegse või kümne- kuni kahekümneaastase vangistusega."
+  },
+  {
+    "paragrahv": 113,
+    "nimetus": "Tapmine",
+    "karistus": "Karistatakse kuue- kuni viieteistaastase vangistusega."
+  },
+  {
+    "paragrahv": 114,
+    "nimetus": "Mõrv",
+    "karistus": "Karistatakse kaheksa- kuni kahekümneaastase või eluaegse vangistusega."
+  },
+  {
+    "paragrahv": 141,
+    "nimetus": "Vägistamine",
+    "karistus": "Karistatakse kolmeaastase kuni viieteistaastase vangistusega."
+  },
+  {
+    "paragrahv": 199,
+    "nimetus": "Vargus",
+    "karistus": "Karistatakse rahalise karistuse või kuni üheaastase vangistusega."
+  },
+  {
+    "paragrahv": 200,
+    "nimetus": "Röövimine",
+    "karistus": "Karistatakse kaheaastase kuni viieteistaastase vangistusega."
+  },
+  {
+    "paragrahv": 221,
+    "nimetus": "Narkootilise või psühhotroopse aine ebaseaduslik käitlemine",
+    "karistus": "Karistatakse kuni kolmeaastase vangistusega."
+  }
+]
